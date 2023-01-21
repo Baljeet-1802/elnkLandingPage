@@ -1,0 +1,233 @@
+.header {
+  /* background-color: red; */
+  /* margin-left: 200px; */
+  /* max-width: 100%; */
+  padding-top: 15px;
+  /* display: inline; */
+}
+
+.icon {
+  display: inline;
+  padding-left: 200px;
+}
+
+.number {
+  /* display: inline-block; */
+  float: right;
+  background-color: rgb(247, 156, 38);
+  font-size: 30px;
+  margin-top: 8px;
+  margin-bottom: 15px;
+  margin-right: 185px;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  /* text-align: center; */
+}
+
+.link {
+  text-decoration: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: white;
+  /* padding-top: 15px; */
+  /* padding-bottom: 15px; */
+}
+
+.section-1 {
+  /* background-color: rgb(249, 249, 249); */
+  /* background-color: red; */
+  background-image: url("./icon/grey-banner.jpg");
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  height: 250px;
+}
+
+#section1-1 {
+  font-size: 50px;
+  color: rgb(54, 56, 61);
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  position: relative;
+}
+
+#section1-2 {
+  font-size: 33px;
+  margin-top: -30px;
+  color: rgb(54, 56, 61);
+}
+
+#plan-online {
+  background-color: rgb(0, 125, 186);
+  position: absolute;
+  height: 50px;
+  width: 300px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  border: none;
+  margin-left: -165px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+#section--2 {
+  /* border: 1px solid red; */
+  float: left;
+  box-sizing: border-box;
+}
+
+#section-2 {
+  /* position: relative; */
+  margin-top: 20px;
+  float: left; /*Add float left*/
+}
+
+#box-1 {
+  position: relative;
+  clear: left;
+  /* border-style: solid;
+  border-color: rgb(217, 218, 213); */
+  border: 5px solid rgb(217, 218, 213);
+  font-size: 33px;
+  font-weight: bold;
+  line-height: 41px;
+  width: 300px;
+  margin-left: 150px;
+  height: 500px;
+  height: 180px;
+  clear: both;
+}
+
+#fastest-sptream {
+  text-align: center;
+  margin-top: 10px;
+  color: #78be1f;
+
+  /* position: absolute; */
+}
+
+#speed-upto {
+  text-align: center;
+  color: #78be1f;
+  position: absolute;
+  margin-top: -33px;
+  margin-left: 81px;
+  font-size: 25px;
+}
+
+#Gigs {
+  color: rgb(54, 56, 61);
+  position: absolute;
+  margin-left: 98px;
+  margin-top: 10px;
+}
+
+#most-popular {
+  text-align: center;
+  margin-top: 10px;
+  color: rgb(69, 163, 224);
+}
+
+#speed-upto-2 {
+  text-align: center;
+  color: rgb(69, 163, 224);
+  position: absolute;
+  margin-top: -33px;
+  margin-left: 81px;
+  font-size: 25px;
+}
+
+#mbps-300 {
+  color: rgb(54, 56, 61);
+  position: absolute;
+  margin-left: 85px;
+  margin-top: 10px;
+}
+
+#tag {
+  position: absolute;
+  margin: -14px;
+}
+
+#best-Value {
+  text-align: center;
+  margin-top: 10px;
+  color: rgb(222, 61, 174);
+}
+
+#speed-upto-3 {
+  text-align: center;
+  color: rgb(222, 61, 174);
+  position: absolute;
+  margin-top: -33px;
+  margin-left: 81px;
+  font-size: 25px;
+}
+
+#mbps-100 {
+  color: rgb(54, 56, 61);
+  position: absolute;
+  margin-left: 78px;
+  margin-top: 10px;
+}
+
+#contact-div {
+  position: absolute;
+  clear: left;
+  /* border: 1px solid red; */
+  width: 500px;
+  font-size: 2rem;
+  font-weight: 300;
+  margin-top: 190px;
+  margin-left: 510px;
+  text-align: center;
+}
+
+#button-1 {
+  clear: left;
+  background-color: rgb(0, 125, 186);
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  border: none;
+  margin-left: -125px;
+  margin-top: -20px;
+  font-weight: 600;
+  border-radius: 50px;
+}
+
+#section-4 {
+  clear: left;
+  /* border: 1px solid red; */
+  /* margin-top: -100px; */
+  height: 150px;
+  /* float: left; */
+}
+
+#section-5 {
+  clear: left;
+  /* border: 1px solid red; */
+  background-color: rgb(244, 152, 40);
+  height: 750px;
+  box-sizing: border-box;
+  position: relative;
+  /* float: left; */
+  /* float: left; */
+  /* display: inline; */
+}
+
+#section-5-1 {
+  position: absolute;
+  /* display: inline; */
+  float: left;
+  background-color: white;
+  width: 400px;
+  /* color: white; */
+  border: 1px solid red;
+}
